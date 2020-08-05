@@ -1,2 +1,2 @@
 # intelligence-agency
-My first intellige-agency
+My first intellige agency
